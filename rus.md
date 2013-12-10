@@ -12,7 +12,8 @@ ShadowDOM-виджетов. И это тот самый момент, когда
 
 ## Поддержка
 
-Если вы хотите попробовать примеры вам нужен [Chrome Canary][3] версии 33 и выше.
+Если вы хотите попробовать примеры вам нужен [Chrome Canary][3]
+версии 33 и выше.
 
 Также убедитесь, что у вас включены **Experimental Web Platform features** на
 внутренней странице настроек хрома `chrome://flags`.
@@ -49,6 +50,7 @@ ShadowDOM-виджетов. И это тот самый момент, когда
 
 Посмотрите [демо селекторов «Котик» и «Домик»][9], созданное Робом Додсон
 ([@robdodson][5]) на [CodePen][6]
+
 
 [1]: http://robdodson.me/blog/2013/08/29/shadow-dom-styles-cont-dot#parts
 [3]: https://www.google.com/intl/en/chrome/browser/canary.html
